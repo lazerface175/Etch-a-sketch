@@ -1,4 +1,4 @@
-.mainBox {
+#mainBox {
     width: 500px;
     height: 500px;
     border: 1px solid #ccc;
@@ -9,7 +9,7 @@
     gap: 10px;
 }
 
-.test {
+.pixels {
     width: 100px;
     height: 100px;
     border: 1px solid #ccc;
